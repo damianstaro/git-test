@@ -14,6 +14,10 @@ def f2():
     print('f2')
 
 
+def f4():
+    print('f2')
+
+
 def main():
     f1()
 
