@@ -10,6 +10,10 @@ def f5():
     print('f5')
 
 
+def f2():
+    print('f2')
+
+
 def main():
     f1()
 
