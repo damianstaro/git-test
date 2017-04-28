@@ -30,6 +30,10 @@ def f8():
     print('f8')
 
 
+def f9():
+    print('f9')
+
+
 def main():
     f1()
 
