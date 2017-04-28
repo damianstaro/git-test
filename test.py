@@ -26,6 +26,10 @@ def f7():
     print('f7')
 
 
+def f8():
+    print('f8')
+
+
 def main():
     f1()
 
